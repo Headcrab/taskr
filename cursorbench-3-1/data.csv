@@ -1,0 +1,36 @@
+rank,model,family,effort,score,cost,tokens,steps
+1,Fable 5 Max,Fable 5,Max,72.9,18.02,63842,76
+2,Fable 5 Extra High,Fable 5,Extra High,72,13.74,48754,63
+3,Fable 5 High,Fable 5,High,70.6,10.81,37173,54
+4,Fable 5 Medium,Fable 5,Medium,69.8,8.27,28507,47
+5,Opus 4.7 Max,Opus 4.7,Max,64.8,11.02,62989,96
+6,GPT-5.5 Extra High,GPT-5.5,Extra High,64.3,4.37,17905,46
+7,Fable 5 Low,Fable 5,Low,64.2,5.7,18882,36
+8,Opus 4.8 Max,Opus 4.8,Max,63.8,7.59,77370,60
+9,Composer 2.5,Composer,Default,63.2,0.55,15152,37
+10,GPT-5.5 High,GPT-5.5,High,62.6,3.59,13329,40
+11,Opus 4.8 Extra High,Opus 4.8,Extra High,62.1,6.14,55622,54
+12,Opus 4.7 Extra High,Opus 4.7,Extra High,61.6,7.11,43942,72
+13,Sonnet 5 Max,Sonnet 5,Max,61.2,6.87,93485,93
+14,Opus 4.7 High,Opus 4.7,High,59.4,5.01,32227,59
+15,GPT-5.5 Medium,GPT-5.5,Medium,59.2,2.22,9065,35
+16,Opus 4.8 High,Opus 4.8,High,58.4,4.41,36788,45
+17,Sonnet 5 Extra High,Sonnet 5,Extra High,58.4,5.23,58228,86
+18,Sonnet 5 High,Sonnet 5,High,57,3.74,41735,66
+19,Opus 4.8 Medium,Opus 4.8,Medium,56.6,3.83,31684,41
+20,Sonnet 5 Medium,Sonnet 5,Medium,54.9,2.57,27469,53
+21,GLM 5.2 Max,GLM 5.2,Max,54.6,3.11,51312,83
+22,Opus 4.8 Low,Opus 4.8,Low,54.3,2.93,22726,36
+23,Opus 4.7 Medium,Opus 4.7,Medium,52.7,2.93,19193,41
+24,Composer 2,Composer,Default,52.2,0.56,14163,40
+25,GLM 5.2 High,GLM 5.2,High,50.7,2.46,30621,76
+26,Gemini 3.5 Flash,Gemini,Default,49.8,1.94,35105,79
+27,Sonnet 4.6 Max,Sonnet 4.6,Max,49,3.09,40280,55
+28,GPT-5.5 Low,GPT-5.5,Low,48.8,1.19,4923,24
+29,Sonnet 4.6 High,Sonnet 4.6,High,48.8,3.06,37352,57
+30,Opus 4.7 Low,Opus 4.7,Low,48.3,1.87,13164,29
+31,Sonnet 5 Low,Sonnet 5,Low,47.7,1.46,17028,37
+32,Kimi 2.6,Kimi,Default,47.6,1.27,24783,56
+33,Sonnet 4.6 Medium,Sonnet 4.6,Medium,46,2.64,31360,50
+34,Sonnet 4.6 Low,Sonnet 4.6,Low,41.5,1.89,21211,50
+35,Kimi 2.5,Kimi,Default,31.9,0.87,9446,30
